@@ -6,3 +6,5 @@
 ### 大部分的代码都由ＡＩ生成，所以最后的结果仅供参考，当然以后的学弟学妹们有更强的学习能力或者更好的工具，可以完善这个项目。
 
 ### 不要直接抄！！！理解了再去参考！！！不要暴露我的名字（不想惹麻烦）！！！
+
+### 数据的下载：所有数据均为再分析数据的nc格式，由于太大所以没有上传。友情链接https://cds.climate.copernicus.eu/datasets/reanalysis-era5-pressure-levels?tab=overview
